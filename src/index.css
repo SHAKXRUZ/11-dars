@@ -4,3 +4,9 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0px 20px;
+}
