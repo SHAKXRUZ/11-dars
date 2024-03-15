@@ -1,0 +1,112 @@
+.a1{
+    display: flex;
+
+}
+.a2{
+    display: flex;
+   
+}
+.card {
+    background-color: hsla(0, 0%, 100%, .4);
+    border-radius: 20px;
+    box-shadow: 0 2px 5px -1px rgba(50, 50, 93, .25), 0 1px 3px -1px rgba(0, 0, 0, .3);
+    height: 340px;
+    margin: 20px auto;
+    overflow: hidden;
+    padding: 14px;
+    position: relative;
+    transition: .6s linear;
+    width: 250px;
+}
+
+.h1 {
+    text-align: center;
+    color: #01b3b0;
+}
+
+.img {
+    height: 80%;
+    object-fit: cover;
+    transition: .4s;
+    width: 100%;
+}
+
+.forma {
+    align-items: flex-start;
+    background: #01b3b0;
+    background: linear-gradient(153deg, #01b3b0, #0176b3);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 20%;
+    justify-content: center;
+    padding: 10px;
+    width: 100%;
+    margin-top: -5px;
+}
+
+.name {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 14px;
+}
+
+.position {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.about {
+    align-items: center;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    background: hsla(0, 0%, 68%, .08);
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    margin-left: -260px;
+    position: absolute;
+    top: 0;
+    transition: .2s linear;
+    width: 100%;
+
+}
+
+.about_btn {
+    align-items: center;
+    background-color: #01b3b0;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    gap: 2px;
+    font-size: 14px;
+    height: 30px;
+    justify-content: center;
+    transition: .4s;
+    width: 100px;
+    border: transparent;
+}
+
+.card:hover {
+    .about {
+        margin-left: -15px;
+    }
+}
+
+.about_img {
+    height: 0;
+    margin-left: 5px;
+    transition: .4s;
+    width: 0;
+}
+
+.about_btn:hover {
+    .about_img {
+        height: 12px;
+        object-fit: cover;
+        transition: .4s;
+        width: 12px;
+    }
+
+}
