@@ -18,7 +18,7 @@ const Shifokorlar = () => {
             </div>
           </div>
           <div className="card">
-            <img src="http://46.101.190.197/media/doctors/0_d4EMbgd.jpg" alt="" className="img" />
+            <img src="http://46.101.190.197/media/doctors/000_vHH9heb.jpg" alt="" className="img" />
             <div className="forma">
               <div class="name">Surayyo Boltayeva Ismatullayevna</div>
               <div class="position">Bosh shifokor o`rinbosari</div>
@@ -40,7 +40,7 @@ const Shifokorlar = () => {
             </div>
           </div>
           <div className="card">
-            <img src="http://46.101.190.197/media/doctors/0_d4EMbgd.jpg" alt="" className="img" />
+            <img src="http://46.101.190.197/media/doctors/000_vHH9heb.jpg" alt="" className="img" />
             <div className="forma">
               <div class="name">Surayyo Boltayeva Ismatullayevna</div>
               <div class="position">Bosh shifokor o`rinbosari</div>
@@ -62,7 +62,7 @@ const Shifokorlar = () => {
             </div>
           </div>
           <div className="card">
-            <img src="http://46.101.190.197/media/doctors/0_d4EMbgd.jpg" alt="" className="img" />
+            <img src="http://46.101.190.197/media/doctors/000_vHH9heb.jpg" alt="" className="img" />
             <div className="forma">
               <div class="name">Surayyo Boltayeva Ismatullayevna</div>
               <div class="position">Bosh shifokor o`rinbosari</div>
@@ -84,7 +84,7 @@ const Shifokorlar = () => {
             </div>
           </div>
           <div className="card">
-            <img src="http://46.101.190.197/media/doctors/0_d4EMbgd.jpg" alt="" className="img" />
+            <img src="http://46.101.190.197/media/doctors/000_vHH9heb.jpg" alt="" className="img" />
             <div className="forma">
               <div class="name">Surayyo Boltayeva Ismatullayevna</div>
               <div class="position">Bosh shifokor o`rinbosari</div>
