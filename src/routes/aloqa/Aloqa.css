@@ -1,0 +1,131 @@
+.aloqa_form_div {
+    width: 98%;
+    height: auto;
+    padding-bottom: 100px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.aloqa_h1 {
+    color: #01b3b0;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin: 0 auto;
+}
+
+.aloqa_two {
+    width: 395px;
+    display: flex;
+    margin-left: 200px;
+}
+
+.aloqa_form_bir {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.aloqa_p_one {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #01b3b0;
+}
+
+.aloqa_input {
+    width: 395px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #01b3b0;
+    border-radius: 5px;
+    color: #01b3b0;
+    font-size: 18px;
+    padding-left: 16px;
+    margin-top: 5px;
+}
+
+.aloqa_katta_input {
+    width: 395px;
+    height: 80px;
+    background-color: transparent;
+    border: 1px solid #01b3b0;
+    border-radius: 5px;
+    color: #01b3b0;
+    font-size: 18px;
+    padding-left: 16px;
+    padding-top: 15px;
+    margin-top: 30px;
+    resize: vertical;
+}
+
+.aloqa_btn {
+    align-items: center;
+    background-color: #01b3b0;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-size: 18px;
+    font-weight: 700;
+    height: 35px;
+    justify-content: center;
+    margin-top: 25px;
+    width: 140px;
+    border: 2px transparent solid;
+}
+
+.aloqa_btn:hover {
+    background-color: #fff;
+    color: #01b3b0;
+    border-color: #01b3b0;
+}
+
+.aloqa_form-ikki {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+    gap: 20px;
+}
+
+.aloqa_icon {
+    font-size: 29px;
+
+}
+
+.aloqa_item {
+    width: 330px;
+    height: 50px;
+}
+
+.aloqa_tel_p {
+    text-decoration: none;
+    color: #01b3b0;
+}
+
+.aloqa_a {
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    width: auto;
+    height: 30px;
+    color: #fff;
+    font-size: 18px;
+    gap: 15px;
+}
+
+.aloqa_dumaloq {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #01b3b0;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
