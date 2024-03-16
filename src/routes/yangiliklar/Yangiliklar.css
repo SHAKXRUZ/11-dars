@@ -1,0 +1,127 @@
+.y_h1 {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-style: 25px;
+    color: dodgerblue;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.b_qator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.vid {
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    width: 650px;
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.img1 {
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    z-index: -1;
+    margin-top: -300px;
+}
+
+.vid_y {
+    width: 320px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 250px;
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 150px;
+}
+
+.h2_y {
+    color: dodgerblue;
+}
+
+.p_y1 {
+    font-family: serif;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.yoz {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.p_cl {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.sana_p {
+    color: dodgerblue;
+    font-weight: 700;
+    text-align: right;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.vid_y-copy {
+    width: 320px;
+    height: 250px;
+    border-radius: 15px;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    z-index: 1;
+    margin-top: 150px;
+    transition: 1s;
+}
+
+.vid_y-copy:hover {
+    background-color: aqua;
+    transition: 1s;
+
+    .b_btn {
+        transition: 1s;
+        background-color: dodgerblue;
+        color: white;
+    }
+}
+
+.b_btn {
+    border: transparent;
+    color: transparent;
+    background-color: transparent;
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    transition: 1s;
+}
