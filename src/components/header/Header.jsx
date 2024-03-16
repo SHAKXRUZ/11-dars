@@ -27,7 +27,7 @@ const Header = ({ language, setLanguage, setSidebar }) => {
           <Link to="/" className="navbar_list">
             Bosh sahifa
           </Link>
-          <Link to="/leaders" className="navbar_list">
+          <Link to="/shifokorlar" className="navbar_list">
             Shifokorlar
           </Link>
           <Link to="/bulimlar" className="navbar_list">
