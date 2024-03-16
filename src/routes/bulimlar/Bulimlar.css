@@ -1,0 +1,153 @@
+.cards {
+    width: 250px;
+    height: 300px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 40px;
+    overflow: hidden;
+    position: relative;
+}
+.hideElement {
+    cursor: pointer;
+    width: 100%;
+    height: 50px;
+    background-color: #01b3b0;
+    position: absolute;
+    top: 300px;
+    transition: all .4s ease;
+}
+.hideElement h2 {
+    text-align: center;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.icon {
+    padding-top: 5px;  
+}
+
+.cards:hover .hideElement{
+    position: absolute;
+    top: 250px;
+}
+.cards2:hover .hideElement{
+    position: absolute;
+    top: 250px;
+}
+
+.cards1 {
+    width: 250px;
+    height: 300px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 40px;
+    margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+}
+
+.hideElement {
+    cursor: pointer;
+    width: 100%;
+    height: 50px;
+    background-color: #01b3b0;
+    position: absolute;
+    top: 300px;
+    transition: all .4s ease;
+}
+
+.hideElement h2 {
+    text-align: center;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.icon {
+    padding-top: 5px;  
+}
+
+.cards1:hover .hideElement{
+    position: absolute;
+    top: 250px;
+}
+
+
+
+.cards2 {
+    width: 250px;
+    height: 300px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 40px;
+    margin-top: 50px;
+    position: relative;
+    overflow: hidden;
+}
+
+.card {
+    display: flex;
+    gap: 100px;
+    margin-left: 35px;
+}
+
+.imgs {
+    width: 90px;
+    height: 80px;
+    border-radius: 55px;
+    margin-left: 80px;
+    margin-top: 35px;
+}
+
+.h21 {
+    color: #01b3b0;
+    margin-top: 35px;
+}
+
+
+.h211 {
+    color: #01b3b0;
+    margin-top: 35px;
+}
+
+.h11 {
+    color: #01b3b0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 615px;
+}
+
+.rqq {
+    color: #01b3b0;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.rqqq {
+    color: #01b3b0;
+    cursor: pointer;
+    transition: .5s;
+    margin-top: 2px;
+}
+
+.rqq:hover {
+    cursor: pointer;
+    transition: .5s;
+    color: black;
+}
+
+.rqqq:hover {
+    cursor: pointer;
+    transition: .5s;
+    color: black;
+}
+
+.rq {
+    width: 200px;
+    display: flex;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left: 580px;
+    gap: 20px;
+    border-radius: 10px;
+}
+
